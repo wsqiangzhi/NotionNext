@@ -17,7 +17,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_3: 'blog.paper.cloudns.org',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '我的新博客',
   HEO_HERO_TITLE_LINK: 'https://blog.paper.cloudns.org',
